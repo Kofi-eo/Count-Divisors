@@ -12,4 +12,4 @@ function countDivisors(number) {
 }
 
 //EXAMPLE
-console.log(countDivisors(10)); //---> Result 27
+console.log(countDivisors(5)); //---> Result 27
